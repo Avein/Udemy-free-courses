@@ -1,6 +1,8 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
-*.txt
-
+*courses.txt
+already_added.txt
+statistics.txt
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
